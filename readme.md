@@ -4,3 +4,5 @@
 - [Read](read.md)
 - [Travel](travel.md)
 - [Watch](watch.md)
+- [Learn](learn.md)
+- [Play](play.md)
