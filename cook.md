@@ -1,5 +1,5 @@
 ### Dishes to make at home
-- [ ] Sweet Potato ravioli
-- [ ] Beet ravioli
-- [ ] Duck fat ramen
-- [ ] lamb merguez with something tomatoe-y
+- [ ] Moules Frites
+- [ ] Lamb kebabs
+- [ ] Cauliflower crust pizza
+- [ ] Mom's mint chutney picnic sandwiches
