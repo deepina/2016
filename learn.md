@@ -4,3 +4,4 @@
 - [ ] Shuck Oysters
 - [ ] Private Pilot's License hours & ground school 
 - [ ] Thai cooking (Class with @samkap)
+- [ ] Brush up on Advanced RWD techniques
