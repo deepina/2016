@@ -8,3 +8,7 @@
 - [ ] Hello Web App Intermediate Concepts
 - [ ] Alias - Brian Michael Bendis
 - [ ] The No.1 Ladies' Detective Agency
+
+
+
+This list is a work in progress. Check back for more updates. Want more? @larahogan has a great list [of tech books authored by women here](https://the-pastry-box-project.net/lara-hogan/2015-december-4) and The Times wrote a list of their top books about [women and feminism here.] (http://nytlive.nytimes.com/womenintheworld/2015/12/28/the-15-books-we-couldnt-put-down-this-year/)
