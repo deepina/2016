@@ -7,3 +7,4 @@
 - [ ] Hello Web App
 - [ ] Hello Web App Intermediate Concepts
 - [ ] Alias - Brian Michael Bendis
+- [ ] The No.1 Ladies' Detective Agency
