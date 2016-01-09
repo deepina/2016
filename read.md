@@ -12,6 +12,7 @@
 - [ ] The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer
 - [ ] The Cuckoo's Calling
 - [ ] Americanah
+- [ ] Bitch Planet Volume 1
 - [ ] The Goldfinch
 - [ ] Big Magic 
 - [ ] Ancillary Justice 
