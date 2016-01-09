@@ -9,6 +9,7 @@
 - [ ] Alias - Brian Michael Bendis
 - [ ] The No.1 Ladies' Detective Agency
 - [ ] Girl in a Band - Kim Gordon
+- [ ] The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer
 - [ ] The Cuckoo's Calling
 - [ ] Americanah
 - [ ] The Goldfinch
