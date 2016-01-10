@@ -1,6 +1,8 @@
 - [ ] Python 
 - [ ] Django
 - [ ] Advanced Git, Github + Command Line 
+- [ ] Ruby
+- [ ] Rails
 - [ ] Shuck Oysters
 - [ ] Private Pilot's License hours & ground school 
 - [ ] Thai cooking (Class with @samkap)
