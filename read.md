@@ -15,6 +15,7 @@
 - [ ] Bitch Planet Volume 1
 - [ ] The Goldfinch
 - [ ] Big Magic 
+- [ ] How to transform your ideas into Software Products
 - [ ] Ancillary Justice 
 - [ ] [Superbetter](http://www.amazon.com/dp/1594206368/ref=cm_sw_r_tw_dp_32rmvb1VGPQ8B)
 - [ ] Hunger makes me a modern girl - Carrie Brownstein
