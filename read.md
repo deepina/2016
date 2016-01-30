@@ -12,7 +12,7 @@
 - [ ] The Thrilling Adventures of Lovelace and Babbage: The (Mostly) True Story of the First Computer
 - [ ] The Cuckoo's Calling
 - [ ] Americanah
-- [ ] Bitch Planet Volume 1
+- [x] Bitch Planet {Ongoing Series}
 - [ ] The Goldfinch
 - [ ] Big Magic 
 - [ ] How to transform your ideas into Software Products
