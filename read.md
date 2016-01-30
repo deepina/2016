@@ -13,7 +13,7 @@
 - [ ] The Cuckoo's Calling
 - [ ] Americanah
 - [x] Bitch Planet {Ongoing Series}
-- [ ] The Goldfinch
+- [ ] Disrupt Yourself
 - [ ] Big Magic 
 - [ ] How to transform your ideas into Software Products
 - [ ] Ancillary Justice 
